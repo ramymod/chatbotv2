@@ -1,0 +1,7 @@
+FastAPI
+uvicorn
+pydantic
+os
+json
+config
+google.generativeai
